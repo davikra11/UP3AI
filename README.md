@@ -4,7 +4,7 @@ Učební praxe třetí ročník informatiků
 Jak nastavit repozitář?
 git clone
 test
-
+David
 
     Open the command line.
 
